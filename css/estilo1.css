@@ -1,0 +1,12 @@
+.tabla{
+   
+   
+    
+    background-color: purple ;
+}
+
+.tabla td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px 12px;
+}
